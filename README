@@ -1,0 +1,7 @@
+This is a simple bookmarklet that provides a way to download Youtube videos.
+
+Works on Chrome and Firefox. Untested in other browsers. And until the youtube code changes, obviously.
+
+TODO: Find a way to prettify download links for Firefox, for lack of support of the "download" attribute.
+
+
